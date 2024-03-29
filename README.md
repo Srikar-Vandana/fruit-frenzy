@@ -1,4 +1,6 @@
 # fruit-frenzy
+🍓 Fruit Frenzy 🍏
+
 Welcome to Fruit Frenzy, a fun and addictive match-three game where players aim to align three or more similar fruit images to earn points and advance through levels!
 
 In this vibrant and engaging game, players are tasked with swapping adjacent fruits to create matches and clear them from the board. With each successful match, players earn points, with bonus points awarded for creating larger combos or triggering special fruit-powered boosts.
