@@ -6,12 +6,17 @@ In this vibrant and engaging game, players are tasked with swapping adjacent fru
 Key Features:
 
 1] Match-Three Gameplay: Align three or more similar fruit images horizontally or vertically to create matches and earn points.
+
 2] Exciting Power-Ups: Unleash the power of special fruit-themed boosts, such as explosions, rainbow fruit, and more, to clear large sections of the board and achieve higher scores.
+
 3] Progressive Levels: Embark on a journey through a series of progressively challenging levels, each with unique objectives and obstacles to overcome.
+
 4] Leaderboards and Achievements: Compete with friends and fellow players for the top spot on the leaderboards and unlock achievements as you master the art of fruit matching.
 
 Technologies Used:
 
 HTML: The structure of the game's user interface is built using HTML, providing a foundation for the game's layout and content.
+
 CSS: Styling and visual enhancements are implemented using CSS, allowing for the customization of colors, fonts, animations, and more to create an immersive gaming experience.
+
 JavaScript: The game logic and interactivity are powered by JavaScript, enabling dynamic gameplay mechanics, such as fruit swapping, score tracking, and power-up activation.
