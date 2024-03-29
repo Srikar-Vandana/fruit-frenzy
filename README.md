@@ -4,10 +4,10 @@ Welcome to Fruit Frenzy, a fun and addictive match-three game where players aim 
 In this vibrant and engaging game, players are tasked with swapping adjacent fruits to create matches and clear them from the board. With each successful match, players earn points, with bonus points awarded for creating larger combos or triggering special fruit-powered boosts.
 
 Key Features:
-Match-Three Gameplay: Align three or more similar fruit images horizontally or vertically to create matches and earn points.
-Exciting Power-Ups: Unleash the power of special fruit-themed boosts, such as explosions, rainbow fruit, and more, to clear large sections of the board and achieve higher scores.
-Progressive Levels: Embark on a journey through a series of progressively challenging levels, each with unique objectives and obstacles to overcome.
-Leaderboards and Achievements: Compete with friends and fellow players for the top spot on the leaderboards and unlock achievements as you master the art of fruit matching.
+1] Match-Three Gameplay: Align three or more similar fruit images horizontally or vertically to create matches and earn points.
+2] Exciting Power-Ups: Unleash the power of special fruit-themed boosts, such as explosions, rainbow fruit, and more, to clear large sections of the board and achieve higher scores.
+3] Progressive Levels: Embark on a journey through a series of progressively challenging levels, each with unique objectives and obstacles to overcome.
+4] Leaderboards and Achievements: Compete with friends and fellow players for the top spot on the leaderboards and unlock achievements as you master the art of fruit matching.
 
 Technologies Used:
 HTML: The structure of the game's user interface is built using HTML, providing a foundation for the game's layout and content.
